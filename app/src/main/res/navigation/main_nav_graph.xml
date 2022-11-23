@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/fragment_home"
-        android:name="com.catnip.animecommunity.presentation.ui.home.HomeFragment"
+        android:name="com.catnip.animemunity.presentation.ui.home.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/fragment_thread"
-        android:name="com.catnip.animecommunity.presentation.ui.thread.ThreadFragment"
+        android:name="com.catnip.animemunity.presentation.ui.thread.ThreadFragment"
         android:label="ThreadFragment"
         tools:layout="@layout/fragment_thread" />
 </navigation>

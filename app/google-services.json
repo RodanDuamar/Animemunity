@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "560414414204",
-    "project_id": "animegogonity-binar",
-    "storage_bucket": "animegogonity-binar.appspot.com"
+    "project_number": "877038213060",
+    "project_id": "animecommunity-rodan",
+    "storage_bucket": "animecommunity-rodan.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:560414414204:android:ceb09148f8726b2b1f40f9",
+        "mobilesdk_app_id": "1:877038213060:android:2e28fa112ad87d21f5b691",
         "android_client_info": {
-          "package_name": "com.catnip.animecommunity"
+          "package_name": "com.catnip.animemunity"
         }
       },
       "oauth_client": [
         {
-          "client_id": "560414414204-t7td5tfikja7h0j0mkrpr2uol94mcrte.apps.googleusercontent.com",
+          "client_id": "877038213060-88hjp0vhgq90l3rnqc9o2cmqev3jl89b.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.catnip.animecommunity",
-            "certificate_hash": "f9f8587dedac72c03bd975e93d834bcb4a47593a"
+            "package_name": "com.catnip.animemunity",
+            "certificate_hash": "b69336a6377386250359ec352b7252bcfba23c42"
           }
         },
         {
-          "client_id": "560414414204-55rbaeat0ur36h3qep4ps79hgre1a35v.apps.googleusercontent.com",
+          "client_id": "877038213060-h2t0jqq7gr86l3p3utqcucue43pg64bo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA7gQa0gheNXQgZbtXOGoR68P3UcX1KFNM"
+          "current_key": "AIzaSyB8Me4KrWopWntqnGFwHQ46s2c5Ptoun9c"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "560414414204-55rbaeat0ur36h3qep4ps79hgre1a35v.apps.googleusercontent.com",
+              "client_id": "877038213060-h2t0jqq7gr86l3p3utqcucue43pg64bo.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

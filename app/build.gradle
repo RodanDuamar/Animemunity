@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.catnip.animecommunity'
+    namespace 'com.catnip.animemunity'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.catnip.animecommunity"
+        applicationId "com.catnip.animemunity"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -29,7 +29,7 @@ android {
         production {
             dimension = 'version'
             buildConfigField("String", "BASE_URL_GOGO_ANIME", "\"https://gogoanime.consumet.org/\"")
-            buildConfigField("String", "FIREBASE_WEB_CLIENT_ID", "\"560414414204-55rbaeat0ur36h3qep4ps79hgre1a35v.apps.googleusercontent.com\"")
+            buildConfigField("String", "FIREBASE_WEB_CLIENT_ID", "\"877038213060-h2t0jqq7gr86l3p3utqcucue43pg64bo.apps.googleusercontent.com\"")
         }
     }
 
